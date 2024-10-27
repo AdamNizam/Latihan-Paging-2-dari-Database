@@ -57,4 +57,6 @@ dependencies {
     ksp(libs.room.compiler)
 
     implementation(libs.lifecycle.livedata.ktx)
+
+    implementation(libs.androidx.paging.runtime.ktx)
 }
